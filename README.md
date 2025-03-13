@@ -19,7 +19,8 @@ SignUp: A simple sign-up form to demonstrate form handling in React.
 # Hooks:
 useEffect: Managed side effects in React, such as fetching data or running certain actions when the component mounts or updates.
 Custom Hook: Created a custom hook to handle repeated logic across different components.
-# Theme Context: Implemented theme toggling using a context provider (ThemeContext) to switch between light and dark themes dynamically.
+# Theme Context: 
+Implemented theme toggling using a context provider (ThemeContext) to switch between light and dark themes dynamically.
 # UI Interactions:
 Search: A search bar to filter through items.
 Popup: A popup feature to display additional information or warnings.
